@@ -1,1 +1,1 @@
-# data-visualizations-and-analysis
+# Data Visualizations & Analysis
